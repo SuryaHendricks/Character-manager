@@ -120,6 +120,12 @@ p {
     justify-content: center;
     display: flex;
     border: 1px solid white;
+    overflow: auto;
+    overflow-x: hidden;
+}
+#view-content{
+    width: 60% !important;
+    margin-bottom: 3px;
 }
 
 .closeFormBtn, .btnSubmit, .deleteBtn, .ModifyBtn, .closeViewBtn {
