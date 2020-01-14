@@ -1,16 +1,18 @@
-<h1 align="center">Welcome to character-manager 👋</h1>
-<p>
-</p>
+Character manager
+=====
+* *Version*: 1.0.0
+* *Authors*: Surya Hendricks, 
 
-## Install
+Description
+----
+A library management API. 
 
-```sh
-npm install
-```
+Technologies
+----
+*Typescript*, *Html*, *CSS*
 
-## Show your support
+How to run the projet
+----
 
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+What can you do? 
+-----
