@@ -11,8 +11,15 @@ Technologies
 ----
 *Typescript*, *Html*, *CSS*
 
-How to run the projet
-----
-
 What can you do? 
 -----
+
+* Create new character
+* Update character
+* Delete character
+* Show character informations
+
+Link 
+----
+
+[Open the project](https://silly-babbage-8cb7cb.netlify.com/)
